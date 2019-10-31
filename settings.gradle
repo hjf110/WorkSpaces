@@ -1,0 +1,1 @@
+include ':app', ':kjcy2', ':kjcypda',':zxing-lib', ':kjcypad', ':jgproject'
